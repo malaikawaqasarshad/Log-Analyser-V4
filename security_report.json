@@ -1,0 +1,17 @@
+{
+    "summary": {
+        "successful_logins": 2,
+        "failed_logins": 5
+    },
+    "failed_logins_by_ip": {
+        "192.0.2.15": 3,
+        "192.0.2.30": 2
+    },
+    "failed_logins_by_username": {
+        "admin": 3,
+        "alex": 2
+    },
+    "potential_brute_force_ips": [
+        "192.0.2.15"
+    ]
+}
